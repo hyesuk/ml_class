@@ -12,7 +12,7 @@ requires = [
 setup(
         name='ml-class',
         description='Practice for machine learning algorithms.',
-        author='Hye Suk Byun',
+        author='Hyesuk Byun',
         url='https://github.com/hyesuk/ml_class',
         packages=find_packages(),
         install_requires=requires,
