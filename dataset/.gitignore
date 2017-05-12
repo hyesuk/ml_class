@@ -1,0 +1,4 @@
+# Ignore all data files from git repository.
+*.csv
+*.json
+*.pdf
